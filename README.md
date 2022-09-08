@@ -1,4 +1,6 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/prasanna1564/dempo/_apis/build/status/prasurani.ContosoAir?branchName=master)](https://dev.azure.com/prasanna1564/dempo/_build/latest?definitionId=1&branchName=master)# 
+
+This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
 # Microsoft.Github CI Demo
