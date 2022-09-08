@@ -30,7 +30,7 @@ npm start
 This will run locally the server and attach to the CosmosDb Endpoint using mongodb connection string.
 
 ## Azure Manual Deployment
-
+## i want to test  Git hub Repo commits are linked to Azure board or not
 In order to create the Azure deploy there is an ARM template located at deployment folder.
 
 ARM template parameter | Usage | e.g.
